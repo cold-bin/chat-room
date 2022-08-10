@@ -12,7 +12,7 @@ import (
 )
 
 var (
-	addr   = ":2022"
+	addr   = ":8088"
 	banner = `
     ____              _____
    |    |    |   /\     |
